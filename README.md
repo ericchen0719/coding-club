@@ -1,2 +1,2 @@
-# research-club
-All of our work will be put on this website created by Club Member: Eric Chen
+# coding-club
+All of our hard work will be put on this website created by CLUB MEMBER: Eric Chen
